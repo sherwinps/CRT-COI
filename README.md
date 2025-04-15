@@ -1,1 +1,1 @@
-# Red Team CredOps Infiltrator Resouces
+# Red Team CredOps Infiltrator Resources
