@@ -32,3 +32,34 @@ https://adsecurity.org/?p=2362#more-2362
 ### Detecting Kerberoasting Activity
 
 https://adsecurity.org/?p=3458
+
+
+## TOOLS
+
+### Mimikatz
+
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Mimikatz.md
+
+### LaZagne
+
+https://github.com/AlessandroZ/LaZagne
+
+### HxD
+
+https://mh-nexus.de/en/hxd/
+
+### NirSoft Password Recovery
+
+https://www.nirsoft.net/utils/network_password_recovery.html
+
+### Passcape Windows Password Recovery
+
+https://www.passcape.com/windows_password_recovery
+
+### Kali/DB Browser for SQLite
+
+https://sqlitebrowser.org/dl/
+
+### CyberChef
+
+https://gchq.github.io/CyberChef/
