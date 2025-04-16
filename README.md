@@ -34,7 +34,7 @@ https://adsecurity.org/?p=3458
 
 ### Mimikatz
 
-https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Mimikatz.md
+https://github.com/gentilkiwi/mimikatz
 
 ### LaZagne
 
@@ -59,3 +59,9 @@ https://sqlitebrowser.org/dl/
 ### CyberChef
 
 https://gchq.github.io/CyberChef/
+
+### SharpDPAPI
+
+https://github.com/GhostPack/SharpDPAPI#sharpdpapi-1
+
+
