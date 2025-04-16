@@ -2,10 +2,6 @@
 
 ## READING
 
-### HackTricks/DPAPI
-
-https://book.hacktricks.wiki/en/windows-hardening/windows-local-privilege-escalation/dpapi-extracting-passwords.html
-
 ### Microsoft Learn/CNG DPAPI
 
 https://learn.microsoft.com/en-us/windows/win32/seccng/cng-dpapi
