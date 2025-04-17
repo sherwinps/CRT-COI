@@ -1,7 +1,5 @@
 # Red Team - CredOps Infiltrator Certification Exam RESOURCES
 
-Some of the resources I used in preparing for the CRT-COI certification exam...
-
 ## READING
 
 ### Microsoft Learn/CNG DPAPI
