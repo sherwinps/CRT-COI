@@ -1,4 +1,4 @@
-# Red Team CredOps Infiltrator Certification resources
+# Red Team CredOps Infiltrator Certification Resources
 
 Some of the resources I used in preparing for the CRT-COI certification exam...
 
